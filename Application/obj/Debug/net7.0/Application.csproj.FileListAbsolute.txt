@@ -1,0 +1,17 @@
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll

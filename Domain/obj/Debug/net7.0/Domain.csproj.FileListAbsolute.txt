@@ -1,0 +1,12 @@
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/mmm/Documents/webDevPrac/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
